@@ -1,2 +1,3 @@
-# Python 3
- Exercícios de Python
+# Python 3 - Aprendendo Python do Zero
+
+ Repositório recheado com Exercícios de Python
